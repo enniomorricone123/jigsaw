@@ -1,0 +1,7 @@
+His stance on gun control,His stance on immigration,His stance on deportation,His stance on humanitarian aid to foreign countries,0
+Provides a pathway to citizenship for people who are in the country unlawfully,Proposes decriminalization of illegal border crossing,Proposes a more direct pathway to citizenship for refugees,A and B,0
+More than 26%,Less than 24%,More than 22%,More than 35%,0
+Would reconstitute I.C.E,Would reverse Trump’s travel ban,Would repeal the law that makes it a criminal offense to enter the country,B and C,0
+Would repeal the law that makes it a criminal offense to overstay a temporary visa,Would repeal the law that makes it a criminal offense to enter the country illegally,Would ensure that parents of children born in the US have a direct path to US citizenship,Would facilitate visas for refugees with no criminal background,0
+true,false,0
+Reconstitute,Shut down,Reduce funding to,Provide support for,0
